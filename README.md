@@ -1,4 +1,5 @@
 # AWS-AMI-Data
+A Python3 script to pull all active EC2 instances and their AMIs with one easy to run script.
 > **Note:** This utilizes AWS CLI, learn more [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
 
 ## Installing:
